@@ -1,3 +1,6 @@
+# api_yamdb
+![Django-app workflow](https://github.com/nikismol94/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # Описание сервиса
 Проект YaMDb собирает отзывы пользователей на произведения. Произведения делятся на категории: «Книги», «Фильмы»,
 «Музыка».
