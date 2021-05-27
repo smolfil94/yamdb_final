@@ -19,7 +19,7 @@
   ```sudo docker-compose up```
 5. Выполните миграции внутри докера 
   ```sudo docker-compose exec web python manage.py migrate --noinput```
-7. Создайте суперюзера внутри докера 
+7. Создайте супер юзера внутри докера 
   ```sudo docker-compose exec web python manage.py createsuperuser```
 9. Соберите всю статику внутри докера 
   ```sudo docker-compose exec web python manage.py collectstatic --no-input```
@@ -41,7 +41,7 @@
 
 # Информация по запросам
 1. Запустите сервер
-2. Перейдите на http://localhost:8000/redoc/
+2. Перейдите на http://84.201.177.79/redoc/
 
 #### Проект разработан командой:
 * [Александр Маскалев](https://github.com/maskalev)
