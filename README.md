@@ -7,7 +7,7 @@
 
 # Установка сервиса
 1. Скопируйте проект к себе на компьютер 
-  ```git clone https://github.com/Lookin44/infra_sp2.git```
+  ```git clone https://github.com/smolfil94/yamdb_final.git```
 3. Создайте файл .env со значениями: 
   ```DB_NAME=postgres```
   ```POSTGRES_USER=postgres```
